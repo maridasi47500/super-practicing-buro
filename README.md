@@ -1,4 +1,4 @@
-- bienvenue à bulletproof musician buro
+- bienvenue à super musician buro
 
 - lancer (optionnel):
 ```
@@ -18,5 +18,5 @@ $ sh mysite.sh
 - visit http://localhost:8080
 
 
-# hometown-photos
-# beyond-practicing-buro
+
+# super-practicing-buro
